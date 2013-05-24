@@ -1,8 +1,8 @@
 var Enemy = function(image, x, y) {
 	this.image = image;
 
-	this.width = 26; //this.image.width;
-	this.height = 24; //this.image.height;
+	this.width = 50; //this.image.width;
+	this.height = 50; //this.image.height;
 
 	this.x = x + (80 - this.width) / 2;
 	this.y = y;

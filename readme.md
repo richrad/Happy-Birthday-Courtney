@@ -1,1 +1,1 @@
-Space Invaders gemaakt in html en javascript.
+Do battle against the brutal Forces of Sales!
